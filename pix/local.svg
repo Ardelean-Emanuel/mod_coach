@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="50" height="50" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 viewBox="0 0 32 32" xml:space="preserve">
+<g>
+	<g id="calendar_x5F_alt_x5F_stroke">
+		<g>
+			<polygon style="fill:#030104;" points="32,32 0,32 0,4 4,4 4,28 28,28 28,4 32,4 			"/>
+			<rect x="6" y="12" style="fill:#030104;" width="4" height="4"/>
+			<rect x="14" y="12.008" style="fill:#030104;" width="4" height="4"/>
+			<rect x="22" y="12" style="fill:#030104;" width="4" height="4"/>
+			<rect x="6" y="20" style="fill:#030104;" width="4" height="4"/>
+			<rect x="14" y="20" style="fill:#030104;" width="4" height="4"/>
+			<polygon style="fill:#030104;" points="22,24 22,20 26,20 			"/>
+			<path style="fill:#030104;" d="M8,6V2c0-1.105,0.895-2,2-2s2,0.895,2,2v4c0,1.105-0.895,2-2,2S8,7.105,8,6z"/>
+			<path style="fill:#030104;" d="M20,6V2c0-1.105,0.895-2,2-2s2,0.895,2,2v4c0,1.105-0.895,2-2,2S20,7.105,20,6z"/>
+		</g>
+	</g>
+</g>
+</svg>
